@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am a software engineer and open-source contributor (GitHub, GitLab), independent maintainer focused on Windows builds.  
+I work on packaging, testing, and distribution to make complex software easier to run on Windows.
+
+If you find my work useful, consider supporting it through GitHub Sponsors.
+
+Thank you.
+
 <!--
 **dsfb/dsfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
